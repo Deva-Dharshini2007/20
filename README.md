@@ -6,14 +6,19 @@ This project demonstrates how to use Git and GitHub for version control in a tea
 **Tools Used**
 
 Git
+
 GitHub
+
 Git Bash / Terminal
 
 **Branch Structure**
 
 main → Stable production code
+
 feature-login → Login module
+
 feature-dashboard → Dashboard module
+
 feature-api → API development
 
 **Workflow Followed**
